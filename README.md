@@ -19,7 +19,7 @@ You can download the dataset used for training here:
 ```bash
 # Clone the repository
 git clone https://github.com/yourusername/pothole-detection-yolov8.git
-cd pothole-detection-yolov8
+cd YOLO-based-Pothole-Detection
 
 # Install dependencies
 pip install ultralytics
